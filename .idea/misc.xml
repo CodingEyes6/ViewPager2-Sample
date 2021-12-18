@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/usama/AndroidStudioProjects/ViewPager2Sample/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/ViewPager2Sample/app/src/main/res/layout/fragment_calls.xml" value="0.12409420289855072" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/ViewPager2Sample/app/src/main/res/layout/fragment_chats.xml" value="0.12409420289855072" />
         <entry key="..\:/Users/usama/AndroidStudioProjects/ViewPager2Sample/app/src/main/res/layout/fragment_status.xml" value="0.10144927536231885" />
       </map>
     </option>
